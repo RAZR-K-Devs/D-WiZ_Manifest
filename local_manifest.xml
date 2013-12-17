@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="gh"
+           fetch="git://github.com/" />
+
+  <!-- DEVICE -->
+  <project name="Cyanogenmod/android_device_motorola_spyder" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
+  <project name="Cyanogenmod/android_device_motorola_umts_spyder" path="device/motorola/umts_spyder" remote="gh" revision="cm-11.0" />
+  <project name="RAZR-K-Devs/android_device_motorola_omap4-common" path="device/motorola/omap4-common" remote="gh" revision="cm-11.0" />
+
+  <!-- VENDOR -->
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="gh" revision="cm-11.0" />
+
+  <!-- KERNEL -->
+  <project name="RAZR-K-Devs/android_kernel_motorola_omap4-common" path="kernel/motorola/omap4-common" remote="gh" revision="cm-11.0" />
+
+</manifest>
