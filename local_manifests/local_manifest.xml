@@ -5,8 +5,8 @@
            fetch="git://github.com/" />
 
   <!-- DEVICE -->
-  <project name="Cyanogenmod/android_device_motorola_spyder" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
-  <project name="Cyanogenmod/android_device_motorola_umts_spyder" path="device/motorola/umts_spyder" remote="gh" revision="cm-11.0" />
+  <project name="RAZR-K-Devs/android_device_motorola_spyder-1" path="device/motorola/spyder" remote="gh" revision="cm-11.0" />
+  <project name="RAZR-K-Devs/android_device_motorola_umts_spyder-1" path="device/motorola/umts_spyder" remote="gh" revision="cm-11.0" />
   <project name="RAZR-K-Devs/android_device_motorola_omap4-common" path="device/motorola/omap4-common" remote="gh" revision="cm-11.0" />
 
   <!-- VENDOR -->
